@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{10722A03-815F-4032-BD67-5668B5FECA4E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>keyLogers</RootNamespace>
+    <AssemblyName>keyLogers</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DShowNET">
+      <HintPath>..\..\..\..\dll\DShowNET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProperties.Designer.cs">
+      <DependentUpon>FormProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageAll.designer.cs">
+      <DependentUpon>ImageAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="myClass\hidesSoftware.cs" />
+    <Compile Include="myClass\keyLoger.cs" />
+    <Compile Include="myClass\myClass.cs" />
+    <Compile Include="myClass\myData.cs" />
+    <Compile Include="myClass\myServer.cs" />
+    <Compile Include="myClass\numberBig.cs" />
+    <Compile Include="myClass\ScreenCapture.cs" />
+    <Compile Include="myClass\SetCeepBord.cs" />
+    <Compile Include="new\AudioCapabilities.cs" />
+    <Compile Include="new\AudioSource.cs" />
+    <Compile Include="new\Capture.cs" />
+    <Compile Include="new\CrossbarSource.cs" />
+    <Compile Include="new\DeviceInUseException.cs" />
+    <Compile Include="new\DirectShowPropertyPage.cs" />
+    <Compile Include="new\Filter.cs" />
+    <Compile Include="new\FilterCollection.cs" />
+    <Compile Include="new\Filters.cs" />
+    <Compile Include="new\PropertyPage.cs" />
+    <Compile Include="new\PropertyPageCollection.cs" />
+    <Compile Include="new\Source.cs" />
+    <Compile Include="new\SourceCollection.cs" />
+    <Compile Include="new\Tuner.cs" />
+    <Compile Include="new\VfwCompressorPropertyPage.cs" />
+    <Compile Include="new\VideoCapabilities.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormProperties.resx">
+      <DependentUpon>FormProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageAll.resx">
+      <DependentUpon>ImageAll.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

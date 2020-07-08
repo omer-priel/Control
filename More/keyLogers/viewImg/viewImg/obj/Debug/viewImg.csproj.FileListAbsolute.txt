@@ -1,0 +1,18 @@
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\bin\Debug\viewImg.exe.config
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\obj\Debug\viewImg.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\obj\Debug\viewImg.Properties.Resources.resources
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\obj\Debug\viewImg.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\bin\Debug\viewImg.exe
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\bin\Debug\viewImg.pdb
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\obj\Debug\viewImg.Form1.resources
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\obj\Debug\viewImg.exe
+C:\Users\omer\Desktop\תוכנות\לא חשובים\viewImg\viewImg\obj\Debug\viewImg.pdb
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\bin\Debug\viewImg.exe.config
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\obj\Debug\viewImg.exe
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\obj\Debug\viewImg.pdb
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\obj\Debug\viewImg.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\obj\Debug\viewImg.Form1.resources
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\obj\Debug\viewImg.Properties.Resources.resources
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\obj\Debug\viewImg.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\bin\Debug\viewImg.exe
+C:\Users\omer\Desktop\תוכנות\חשובים\keyLogers\viewImg\viewImg\bin\Debug\viewImg.pdb

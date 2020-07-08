@@ -1,0 +1,19 @@
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\bin\Debug\Spy.exe.config
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\bin\Debug\Spy.exe
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\bin\Debug\Spy.pdb
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\obj\Debug\Spy.exe
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\obj\Debug\Spy.pdb
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\bin\Debug\Both.dll
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\לא חשובים\Control\Spy\bin\Debug\Both.pdb
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\bin\Debug\Spy.exe.config
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\obj\Debug\Spy.exe
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\obj\Debug\Spy.pdb
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\bin\Debug\Spy.exe
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\bin\Debug\Spy.pdb
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\bin\Debug\Both.dll
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\bin\Debug\Both.pdb
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\obj\Debug\Spy.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\obj\Debug\Spy.FormStopPassword.resources
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\obj\Debug\Spy.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\תוכנות\C#\פרויקטים\יותר מפרויקט אחד\Control\Spy\bin\Debug\NAudio.dll
