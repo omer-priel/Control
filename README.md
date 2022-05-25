@@ -2,7 +2,7 @@
 An app for controlling remotly other computer.<br>
 When they do not know that.
 
-## Abbilities
+## Abilities
 * View and Record the Screan
 * View, Record and control the computer controlls
 * File System
