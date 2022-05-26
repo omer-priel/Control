@@ -10,4 +10,4 @@ When they do not know that.
 
 ## In The End
 This it is was only a project for fun<br>
-That i built in the High school project
+That i built in High school.
